@@ -1,1 +1,9 @@
-# Saloni-Patel
+💫 About Me:
+👋 Hey there! I'm **Saloni Patel**  <br><br>🌸 A passionate web developer who loves blending **creativity** and **code**  <br> to create — simple, smooth, and stunning website ✨ <br><br> 🔭 What I'm Working On  <br>Currently building **interactive web pages** and polishing my **portfolio website**<br><br> 👯 Collaboration Goals  <br>Looking to collaborate on **front-end projects** and **open-source web apps**<br><br> 🤝 Seeking Help With  <br>Learning **JavaScript** deeply and exploring frameworks like **React**<br><br>⚡ Fun Fact  <br>I can spend hours perfecting colors and fonts until the website *feels right* 💻💕<br><br>---<br><br> “Design is not just what it looks like and feels like — design is how it works.” – *Steve Jobs*<br>
+
+
+🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/salonipatel0610) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psaloni0610@gmail.com) 
+
+💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
