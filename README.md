@@ -1,7 +1,6 @@
 💫 About Me:
 👋 Hey there! I'm **Saloni Patel**  <br><br>🌸 A passionate web developer who loves blending **creativity** and **code**  <br> to create — simple, smooth, and stunning website ✨ <br><br> 🔭 What I'm Working On  <br>Currently building **interactive web pages** and polishing my **portfolio website**<br><br> 👯 Collaboration Goals  <br>Looking to collaborate on **front-end projects** and **open-source web apps**<br><br> 🤝 Seeking Help With  <br>Learning **JavaScript** deeply and exploring frameworks like **React**<br><br>⚡ Fun Fact  <br>I can spend hours perfecting colors and fonts until the website *feels right* 💻💕<br><br>---<br><br> “Design is not just what it looks like and feels like — design is how it works.” – *Steve Jobs*<br>
 
-
 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/salonipatel0610) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psaloni0610@gmail.com) 
 
